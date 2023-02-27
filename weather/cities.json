@@ -1,0 +1,86 @@
+[
+    {
+        "location": {
+            "name": "Sofia",
+            "region": "Grad Sofiya",
+            "country": "Bulgaria",
+            "lat": 42.6975,
+            "lon": 23.3241,
+            "timezone_id": "Europe/Sofia",
+            "localtime": "2023-02-24 15:30",
+            "utc_offset": "2.0"
+        },
+        "current": {
+            "temperature": 6,
+            "feelslike": 3,
+            "humidity": 85,
+            "wind_speed": 6,
+            "wind_direction": "WSW",
+            "pressure": 1018,
+            "precip": 0,
+            "visibility": 10,
+            "weather_icons": [
+                "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png"
+            ],
+            "weather_descriptions": [
+                "Light Rain Shower"
+            ]
+        }
+    },
+    {
+        "location": {
+            "name": "Varna",
+            "region": "Varna",
+            "country": "Bulgaria",
+            "lat": 43.2167,
+            "lon": 27.9167,
+            "timezone_id": "Europe/Sofia",
+            "localtime": "2023-02-24 15:30",
+            "utc_offset": "2.0"
+        },
+        "current": {
+            "temperature": 7,
+            "feelslike": 4,
+            "humidity": 87,
+            "wind_speed": 5,
+            "wind_direction": "SSW",
+            "pressure": 1016,
+            "precip": 0,
+            "visibility": 10,
+            "weather_icons": [
+                "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0025_light_rain_showers_night.png"
+            ],
+            "weather_descriptions": [
+                "Light Rain Shower"
+            ]
+        }
+    },
+    {
+        "location": {
+            "name": "Plovdiv",
+            "region": "Plovdiv",
+            "country": "Bulgaria",
+            "lat": 42.143,
+            "lon": 24.749,
+            "timezone_id": "Europe/Sofia",
+            "localtime": "2023-02-24 15:30",
+            "utc_offset": "2.0"
+        },
+        "current": {
+            "temperature": 10,
+            "feelslike": 8,
+            "humidity": 77,
+            "wind_speed": 5,
+            "wind_direction": "WSW",
+            "pressure": 1019,
+            "precip": 0,
+            "visibility": 10,
+            "weather_icons": [
+                "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+            ],
+            "weather_descriptions": [
+                "Overcast"
+            ]
+        }
+    }
+]
