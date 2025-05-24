@@ -1,0 +1,19 @@
+{
+    "name": "bibo/task",
+    "description": "Task class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bibo\\Task\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "biboletin",
+            "email": "shady_fan@abv.bg"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
